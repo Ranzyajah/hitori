@@ -4,7 +4,7 @@ process.on('unhandledRejection', console.error)
 /*
 	* Create By Naze
 	* Follow https://github.com/nazedev
-	* Whatsapp : wa.me/6282113821188
+	* Whatsapp : wa.me/6285231277718
 */
 
 require('./settings');
